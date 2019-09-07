@@ -1,0 +1,7 @@
+.carousel {
+    background-color: beige;
+}
+
+#carousel-inner > img {
+    max-height: 75rem;
+}
